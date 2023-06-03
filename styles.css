@@ -1,0 +1,19 @@
+
+.card-title{
+    color:whitesmoke;
+    text-align: center;
+}
+.card-text{
+    color:aliceblue;
+    text-align: center;
+}
+.card-img{
+    height: 40vh;
+}
+header{
+    margin-bottom: 2rem;
+
+}
+.card-img-top{
+    height: 250px;
+}
